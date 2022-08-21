@@ -11,7 +11,7 @@ var producerConfig = new ProducerConfig
 
 var schemaRegistryConfig = new SchemaRegistryConfig
 {
-    Url = "http://localhost:8081"
+    Url = "localhost:8081"
 };
 
 using var registryClient = new CachedSchemaRegistryClient(schemaRegistryConfig);
