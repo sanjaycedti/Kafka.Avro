@@ -1,0 +1,15 @@
+﻿{
+	"namespace": "kafka.avro",
+	"name": "person",
+	"type": "record",
+	"fields": [
+		{
+			"name": "ssn",
+			"type": "string"
+		},
+		{
+			"name": "name",
+			"type": "string"
+		}
+	]
+}
