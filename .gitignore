@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Kafka.Avro
+/Kafka.Avro.Consumer/bin
+/Kafka.Avro.Consumer/obj
+/Kafka.Avro.Models/bin
+/Kafka.Avro.Models/obj
+/Kafka.Avro.Producer/bin
+/Kafka.Avro.Producer/obj
